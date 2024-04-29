@@ -1,6 +1,7 @@
-# Documentation
-
-```markdown
+---
+title: Orbital and Spin Hall Conductivity
+sidebar_label: SHC OHC
+---
 # Plotting Orbital and Spin Hall Conductivity
 
 In this script, we demonstrate how to plot the orbital (OHC) and spin Hall conductivity (SHC) for different doping levels in a material. We utilize the `matplotlib` library to create a grid of subplots that represent various levels of doping from 0% to 50%.
@@ -104,7 +105,3 @@ plt.show()
 
 The script concludes with adjustments to the layout, saving the figure as a PNG file, and displaying the plot.
 ```
-
-In this Markdown document, the Python code is embedded within code blocks. To properly view the Markdown
-
- content with the correct syntax highlighting and formatting, it needs to be viewed in a Markdown editor or rendered on a platform like GitHub.
